@@ -143,3 +143,10 @@ MIT — see [LICENSE](LICENSE). Standards quoted in the references (GB/T 7714—
 - O0000-code/awesome-academic-skills — https://github.com/O0000-code/awesome-academic-skills
 - ustctug/ustcthesis — https://github.com/ustctug/ustcthesis
 - 全国标准信息公共服务平台 — https://std.samr.gov.cn/
+
+
+---
+
+## 作者 / Author
+
+**湖南科技大学 · 26 级 · 王越豪** · GitHub [@RazorEdge-wyh](https://github.com/RazorEdge-wyh)
