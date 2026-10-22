@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Generated outputs (Word/PDF exports, previews) ---
+exports/
+preview*/
+_preview/
+*.pdf
+*.docx
+!skills/jinzhongzi-cup/assets/templates/*.md
+~$*.docx
+
+# --- Editor / OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# --- Local scratch ---
+_work/
+_ref/
+_tool/
+_tmp*/
+*.log

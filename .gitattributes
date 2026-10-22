@@ -1,0 +1,7 @@
+# Normalize line endings for a cross-platform Markdown/Python repo
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.zip binary
+*.docx binary
+*.pdf binary
